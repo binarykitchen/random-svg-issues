@@ -1,0 +1,12 @@
+# Build artefacts
+target
+
+# Node.js
+npm-debug.log
+node_modules
+
+# Yarn
+yarn-error.log
+
+# Mac OS X
+.DS_Store
